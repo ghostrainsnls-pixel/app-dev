@@ -4,12 +4,12 @@ My First Repository
 
 
 
-# 🩸 About the Series
+#  About the Series
 **Dexter** is a crime drama television series that follows **Dexter Morgan**, a forensic blood spatter analyst for the Miami Metro Police Department — who secretly lives a double life as a *serial killer* targeting criminals who escape justice.
 
 ---
 
-# 🔍 Why I Love Dexter
+#  Why I Love Dexter
 - Unique perspective on morality and justice  
 - Brilliant acting by **Michael C. Hall**  
 - Clever and suspenseful storytelling  
@@ -17,13 +17,13 @@ My First Repository
 
 ---
 
-# 💭 Favorite Quote
+#  Favorite Quote
 > “If home is where the heart is, then my home is where the blood is.”  
 > — Dexter Morgan
 
 ---
 
-# 📺 Series Information
+#  Series Information
 | Season | Year | Episodes |
 |:-------:|:----:|:--------:|
 | 1 | 2006 | 12 |
@@ -37,7 +37,7 @@ My First Repository
 
 ---
 
-# 🔗 Learn More
+#  Learn More
 You can watch **Dexter** on [Showtime](https://www.sho.com/dexter) or stream it on [Netflix](https://www.netflix.com/).
 
 **Rating:** ⭐⭐⭐⭐⭐ (5/5)  
