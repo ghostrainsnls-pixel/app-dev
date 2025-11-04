@@ -2,7 +2,6 @@
 My First Repository
 # My Favorite Series: Dexter
 
-![Dexter Morgan](https://upload.wikimedia.org/wikipedia/en/6/63/Dexter_Morgan.jpg)
 
 # 🩸 About the Series
 **Dexter** is a crime drama television series that follows **Dexter Morgan**, a forensic blood spatter analyst for the Miami Metro Police Department — who secretly lives a double life as a *serial killer* targeting criminals who escape justice.
